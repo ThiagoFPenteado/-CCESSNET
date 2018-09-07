@@ -1,2 +1,2 @@
-# -CCESSNET
+# @CCESSNET
 dicionário animado de LIBRAS
