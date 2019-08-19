@@ -113,3 +113,16 @@ a:active {
 		padding-bottom: 5%;
 	}
 }
+
+/* CSS Busca */
+
+.panel-body{
+	/* width: 16%; */
+	display: inline-block;
+}
+#UPLOAD{
+	float:right;
+}
+#Descricao{
+	min-height:100px; 
+}
